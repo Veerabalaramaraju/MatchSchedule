@@ -10,3 +10,4 @@ Team: GL | Played: 4  | Won: 2 | Lost: 2 | Points: 6
 Team: RR | Played: 4  | Won: 2 | Lost: 2 | Points: 6
 -------------------------------------------------------------
 Team: DC | Played: 4  | Won: 1 | Lost: 3 | Points: 5
+Win: 3 points,Lost: 1 points
