@@ -100,6 +100,7 @@ public class MatchesScheduled {
                 System.out.printf("Team: %s | Played: %d  | Won: %d | Lost: %d | Points: %d%n",
                         team, totalMatches, wonGames, lostGames, points);
             }
+            System.out.println("Win: 3 points,Lost: 1 points");
         }
     }
 
